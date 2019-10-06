@@ -23,3 +23,4 @@ Then look for the file :
 
 
 test pull
+test fetch
