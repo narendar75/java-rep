@@ -26,3 +26,4 @@ test pull
 test fetch
 test merge
 test push
+test -s ours merge 
